@@ -5,6 +5,7 @@
 
 .secondary {
     color: #bbb;
+    font-size: 17px;
 }
 
 
@@ -16,8 +17,15 @@
     font-family: 'Roboto', sans-serif;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1.1em;
+    font-size: calc(1em + 1rem);
+}
+
 body {
-    font-size: 16px;
+    font-size: 18px;
+    line-height: 1.8rem;
+    word-spacing: 0.1rem;
 }
 
 
@@ -26,11 +34,12 @@ body {
     position: fixed;
     height: 100vh;
     width: 250px;
+    padding: 25px 0;
     background-color: #333;
     color: white;
-    font-size: 18px;
+    font-size: 20px;
 
-    overflow-y: scroll; /* Enable vertical scrolling */
+    overflow-y: auto; /* Enable vertical scrolling */
     /* Hide the scrollbar */
     scrollbar-width: none; /* Firefox */
     -ms-overflow-style: none; /* Internet Explorer and Edge */
@@ -56,10 +65,10 @@ body {
     font-size: 14px; /* Add a font size to adjust the text size */
 }
 
-
 .link-list {
     display: flex;
     flex-direction: column;
+    margin-top: 50px;
 }
 
 .link-list a {
@@ -89,8 +98,22 @@ body {
     margin: 20px 0;
 }
 
-/* DEBUG */
-/* div {
-    border: 1px solid #222;
-    background-color: #ddd;
-} */
+/* RESPONSIVE LAYOUT */
+@media only screen and (max-width: 768px) {
+    .side-bar {
+        display: none;
+    }
+    .content {
+        margin: 0;
+    }
+    .page {
+        padding: 25px 50px;
+    }
+    body {
+        font-size: 16px;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        line-height: 1em;
+        font-size: 1.8em;
+    }
+}
