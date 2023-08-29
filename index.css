@@ -1,0 +1,96 @@
+/* INLINE STYLE */
+.bolded {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.secondary {
+    color: #bbb;
+}
+
+
+/* ROOT */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    font-size: 16px;
+}
+
+
+/* SIDE BAR */
+.side-bar {
+    position: fixed;
+    height: 100vh;
+    width: 250px;
+    background-color: #333;
+    color: white;
+    font-size: 18px;
+
+    overflow-y: scroll; /* Enable vertical scrolling */
+    /* Hide the scrollbar */
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer and Edge */
+}
+
+.side-bar * {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.side-bar-footer {
+    min-height: 75px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #222;
+    position: absolute;
+    bottom: 0;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 14px; /* Add a font size to adjust the text size */
+}
+
+
+.link-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.link-list a {
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+/* CONTENT */
+.content {
+    margin-left: 250px;
+    height: 100vh;
+    color: #333333;
+    max-width: 60rem;
+}
+
+.content-title {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.page {
+    padding: 50px 100px;
+}
+
+.page p {
+    margin: 20px 0;
+}
+
+/* DEBUG */
+/* div {
+    border: 1px solid #222;
+    background-color: #ddd;
+} */
