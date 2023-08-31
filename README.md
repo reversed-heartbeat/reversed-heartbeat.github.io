@@ -21,8 +21,8 @@ I hope you find this helpful.
 
 ### WORK-IN-PROGRESS [^3]
 - [x] Create a repository
-- [x ] Create a Home page
-- [x ] Blog
+- [X] Create a Home page
+- [x] Blog
 - [ ] Projects
 - [ ] Predicting the future...
 
