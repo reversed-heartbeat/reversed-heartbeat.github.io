@@ -25,6 +25,8 @@
     font-size: 13px;
     display: flex;
     flex-direction: column;
+    margin: 0 5px;
+    padding-bottom: 20px; /* Extra spacing at the bottom */
 }
 
 .side-bar-more-info * {
@@ -60,22 +62,30 @@
     color: rgb(255, 255, 255);
 }
 
+
 .link-list-info {
-    margin: 0 25px;
     display: flex;
-    flex-direction: column;
-    align-items: flex-start;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 10px 25px;
 }
 
-.link-list-info a {
+.link-list-info * {
     font-family: 'Open Sans', sans-serif;
     text-decoration: none;
     color: rgb(255, 255, 255);
-    margin: 2px 0;
+    margin: 0;;
+}
+
+.link-list-info i {
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+    margin-top: 10px;
 }
 
 .side-bar-horizontal-line {
     background-color:rgba(255, 255, 255, 0.1);
     height: 2px;
-    margin: 0 10px 25px 10px;
+    margin: 25px 10px;
 }

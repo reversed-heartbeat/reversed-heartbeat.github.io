@@ -5,7 +5,6 @@
 
 .secondary {
     color: #bbb;
-    font-size: 17px;
 }
 
 .left-aligned {
@@ -20,4 +19,12 @@
 
 .extra_hr_padding {
     padding: 0 10px;
+}
+
+.small-p {
+    font-size: 15px;
+}
+
+.medium-p {
+    font-size:18px;
 }
