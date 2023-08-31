@@ -1,0 +1,23 @@
+/* INLINE STYLE */
+.bolded {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.secondary {
+    color: #bbb;
+    font-size: 17px;
+}
+
+.left-aligned {
+    text-align: left;
+}
+
+.horizontal-flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.extra_hr_padding {
+    padding: 0 10px;
+}

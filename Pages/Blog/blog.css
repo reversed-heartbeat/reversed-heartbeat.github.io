@@ -38,3 +38,11 @@
         font-size: 1.8em;
     }
 }
+
+
+/* POST */
+.post-h-line {
+    background-color: #ddd;
+    height: 2px;
+    margin: 20px 0;
+}

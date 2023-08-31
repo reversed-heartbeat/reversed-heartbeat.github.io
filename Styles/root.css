@@ -1,0 +1,38 @@
+/* ROOT */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    line-height: 1.1em;
+    font-size: calc(1em + 1rem);
+}
+
+h2 {
+    line-height: 1.1em;
+    font-size: calc(1em + 0.8rem);
+}
+
+h3, h4, h5, h6 {
+    line-height: 1.1em;
+    font-size: calc(1em + 0.6rem);
+}
+
+h4 {
+    line-height: 1.1em;
+    font-size: calc(1em + 0.4rem);
+}
+
+h5 {
+    line-height: 1.1em;
+    font-size: calc(1em + 0.2rem);
+}
+
+body {
+    font-size: 18px;
+    line-height: 1.8rem;
+    word-spacing: 0.1rem;
+}
