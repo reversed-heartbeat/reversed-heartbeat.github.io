@@ -14,14 +14,15 @@ I hope you find this helpful.
 
 | Date | Description |
 | ----------- | ----------- |
+| 30th August, 2023 | Add Blog Page.|
 | 27th August, 2023 | Created this repository.|
 
 ---
 
 ### WORK-IN-PROGRESS [^3]
 - [x] Create a repository
-- [ ] Create a Home page
-- [ ] Blog
+- [x ] Create a Home page
+- [x ] Blog
 - [ ] Projects
 - [ ] Predicting the future...
 
