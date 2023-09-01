@@ -20,10 +20,12 @@ I hope you find this helpful.
 ---
 
 ### WORK-IN-PROGRESS [^3]
+
 - [x] Create a repository
 - [X] Create a Home page
 - [x] Blog
-- [ ] Projects
+- [ ] Projects (Work in progress)
+- [ ] About
 - [ ] Predicting the future...
 
 [^1]: The contents of this repository are provided for informational purposes only. I am not responsible for any damages, including but not limited to direct, indirect, incidental, consequential, or special damages, arising out of or in connection with the use of this repository.

@@ -1,0 +1,31 @@
+/* CONTENT */
+.content {
+    margin-left: 250px;
+    height: 100vh;
+    color: #333333;
+    max-width: 60rem;
+}
+
+.content-title {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.page {
+    padding: 50px 100px;
+}
+
+.page p {
+    margin: 20px 0;
+}
+
+/* POST */
+.post-h-line {
+    background-color: #ddd;
+    height: 2px;
+    margin: 20px 0;
+}
+
+li {
+    margin-left: 30px;
+}
