@@ -1,5 +1,5 @@
 /* SIDE BAR */
-.side-bar {
+.sidebar {
     position: fixed;
     height: 100vh;
     width: 250px;
@@ -16,12 +16,12 @@
     -ms-overflow-style: none; /* Internet Explorer and Edge */
 }
 
-.side-bar * {
+.sidebar * {
     text-align: center;
     margin: 12px 0;
 }
 
-.side-bar-more-info {
+.sidebar-more-info {
     font-size: 13px;
     display: flex;
     flex-direction: column;
@@ -29,16 +29,16 @@
     padding-bottom: 20px; /* Extra spacing at the bottom */
 }
 
-.side-bar-more-info * {
+.sidebar-more-info * {
     text-align: center;
     margin: 0;
 }
 
-.side-bar-more-info h5 {
+.sidebar-more-info h5 {
     margin-bottom: 10px;
 }
 
-.side-bar-footer {
+.sidebar-footer {
     min-height: 75px;
     display: flex;
     flex-direction: column;
@@ -84,7 +84,7 @@
     margin-top: 10px;
 }
 
-.side-bar-horizontal-line {
+.sidebar-horizontal-line {
     background-color:rgba(255, 255, 255, 0.1);
     height: 2px;
     margin: 25px 10px;
@@ -93,7 +93,7 @@
 
 /* RESPONSIVE LAYOUT */
 @media only screen and (max-width: 768px) {
-    .side-bar {
+    .sidebar {
         display: none;
     }
     .content {
