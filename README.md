@@ -14,7 +14,9 @@ I hope you find this helpful.
 
 | Date | Description |
 | ----------- | ----------- |
-| 30th August, 2023 | Add Blog Page.|
+| 1st September, 2023 | Added image attachment and animation. Started working with the "Projects" section. |
+| 31st August, 2023 | Renamed "Blog" page to "Posts & Updates" page.|
+| 30th August, 2023 | Added Blog Page.|
 | 27th August, 2023 | Created this repository.|
 
 ---
