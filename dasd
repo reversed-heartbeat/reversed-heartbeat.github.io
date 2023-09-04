@@ -1,0 +1,115 @@
+*   [33mcommit 63e2a257a910937fa9264b21e1152f395b0669f0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[31m|[m[32m\[m  Merge: 89bc43f e9e1f1b
+[31m|[m [32m|[m Author: reversed-heartbeat <reversed.heartbeat33@gmail.com>
+[31m|[m [32m|[m Date:   Sat Sep 2 16:00:18 2023 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'main' of https://github.com/reversed-heartbeat/reversed-heartbeat.github.io
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit e9e1f1baa8d9ab5ba3c6cf3ba7c8845e8123906e[m
+[31m|[m [32m|[m Author: reversed-heartbeat <143242471+reversed-heartbeat@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Fri Sep 1 15:45:37 2023 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Update README.md
+[31m|[m [32m|[m     
+[31m|[m [32m|[m     typo fixed
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 0b4ad879b5f9765a5cab52ed31b4a6cc3177f153[m
+[31m|[m [32m|[m Author: reversed-heartbeat <143242471+reversed-heartbeat@users.noreply.github.com>
+[31m|[m [32m|[m Date:   Fri Sep 1 15:44:15 2023 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Update README.md
+[31m|[m [32m|[m     
+[31m|[m [32m|[m     More stuffs!
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 89bc43f3b87680529a06659ded644fcad9f12452[m
+[32m|[m [32m|[m Author: reversed-heartbeat <reversed.heartbeat33@gmail.com>
+[32m|[m [32m|[m Date:   Sat Sep 2 16:00:16 2023 +0800
+[32m|[m [32m|[m 
+[32m|[m [32m|[m     reusable sidebar + project section update
+[32m|[m [32m|[m 
+* [32m|[m [33mcommit bb53972676b83a404985fc9397a1e2fadfd1dd90[m
+[32m|[m[32m/[m  Author: reversed-heartbeat <reversed.heartbeat33@gmail.com>
+[32m|[m   Date:   Sat Sep 2 15:59:54 2023 +0800
+[32m|[m   
+[32m|[m       reusable sidebar + project section update
+[32m|[m 
+* [33mcommit c9d9b238ad8340bfd219cdd35b9d354c792d7a8a[m
+[32m|[m Author: reversed-heartbeat <reversed.heartbeat33@gmail.com>
+[32m|[m Date:   Fri Sep 1 15:40:12 2023 +0800
+[32m|[m 
+[32m|[m     Added img + animation. Working with other sections
+[32m|[m   
+*   [33mcommit fad766c05cc6e3a11dd36b3e3f9edf870a06d2d5[m
+[33m|[m[34m\[m  Merge: c157c73 89243b2
+[33m|[m [34m|[m Author: reversed-heartbeat <reversed.heartbeat33@gmail.com>
+[33m|[m [34m|[m Date:   Thu Aug 31 13:00:53 2023 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Merge branch 'main' of https://github.com/reversed-heartbeat/reversed-heartbeat.github.io
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit 89243b28f87980bb843b438e632134e7781c4209[m
+[33m|[m [34m|[m Author: reversed-heartbeat <143242471+reversed-heartbeat@users.noreply.github.com>
+[33m|[m [34m|[m Date:   Thu Aug 31 10:40:46 2023 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Update README.md
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit 4cf3dd80c3b748baccb340616f2d44f662e47add[m
+[33m|[m [34m|[m Author: reversed-heartbeat <143242471+reversed-heartbeat@users.noreply.github.com>
+[33m|[m [34m|[m Date:   Thu Aug 31 10:40:29 2023 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Update README.md
+[33m|[m [34m|[m     
+[33m|[m [34m|[m     Update
+[33m|[m [34m|[m 
+* [34m|[m [33mcommit c157c733a9d1ff1a3dc61690f11d59cd68ba1cf6[m
+[34m|[m[34m/[m  Author: reversed-heartbeat <reversed.heartbeat33@gmail.com>
+[34m|[m   Date:   Thu Aug 31 13:00:47 2023 +0800
+[34m|[m   
+[34m|[m       Added icons in the sidebar
+[34m|[m 
+* [33mcommit 4965771076977ace6bdff4f82a1f33d6eb64ac6a[m
+[34m|[m Author: reversed-heartbeat <reversed.heartbeat33@gmail.com>
+[34m|[m Date:   Thu Aug 31 10:39:01 2023 +0800
+[34m|[m 
+[34m|[m     Added a lot of essential contents.
+[34m|[m 
+* [33mcommit 304ced3a7db65fa45ae4446a95b6abf55005913b[m
+[34m|[m Author: reversed-heartbeat <reversed.heartbeat33@gmail.com>
+[34m|[m Date:   Tue Aug 29 17:09:00 2023 +0800
+[34m|[m 
+[34m|[m     Added simple responsive layout + CSS improvements.
+[34m|[m 
+* [33mcommit f77c5dec73cd75723709234025f6546f2e266c95[m
+[34m|[m Author: reversed-heartbeat <reversed.heartbeat33@gmail.com>
+[34m|[m Date:   Tue Aug 29 16:13:07 2023 +0800
+[34m|[m 
+[34m|[m     The content creation has started!
+[34m|[m 
+* [33mcommit 969e4fa95a60639a7229428c4e9d44f4feb14c8d[m
+[34m|[m Author: reversed-heartbeat <reversed.heartbeat33@gmail.com>
+[34m|[m Date:   Mon Aug 28 19:37:14 2023 +0800
+[34m|[m 
+[34m|[m     Added a paragraph after restarting VS Code.
+[34m|[m 
+* [33mcommit 0257947bb7e160391eee703c2f59ed5f483bf420[m
+[34m|[m Author: reversed-heartbeat <reversed.heartbeat33@gmail.com>
+[34m|[m Date:   Mon Aug 28 19:32:54 2023 +0800
+[34m|[m 
+[34m|[m     Removed a paragraph. Learning Github Purposes.
+[34m|[m 
+* [33mcommit 7abe0feed0d6623eb2150f8a166a173553463607[m
+[34m|[m Author: reversed-heartbeat <reversed.heartbeat33@gmail.com>
+[34m|[m Date:   Mon Aug 28 19:26:37 2023 +0800
+[34m|[m 
+[34m|[m     Added a paragraph tag. GitHub learning purposes.
+[34m|[m 
+* [33mcommit b28118f536da38a41f349ea04a31b5179abe6fd5[m
+[34m|[m Author: reversed-heartbeat <reversed.heartbeat33@gmail.com>
+[34m|[m Date:   Mon Aug 28 19:19:28 2023 +0800
+[34m|[m 
+[34m|[m     Removed the paragraph tag for the sake of learning Github XD
+[34m|[m 
+* [33mcommit 4eeb7922a294610004018a0f201567777d49c913[m
+  Author: reversed-heartbeat <reversed.heartbeat33@gmail.com>
+  Date:   Mon Aug 28 19:14:12 2023 +0800
+  
+      Deleted relic of the past mistake.

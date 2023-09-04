@@ -92,21 +92,8 @@
 
 
 /* RESPONSIVE LAYOUT */
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) { 
     .sidebar {
-        display: none;
-    }
-    .content {
-        margin: 0;
-    }
-    .page {
-        padding: 25px 50px;
-    }
-    body {
-        font-size: 16px;
-    }
-    h1, h2, h3, h4, h5, h6 {
-        line-height: 1em;
-        font-size: 1.8em;
+        display:none;
     }
 }

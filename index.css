@@ -21,11 +21,8 @@
 
 /* RESPONSIVE LAYOUT */
 @media only screen and (max-width: 768px) {
-    .side-bar {
-        display: none;
-    }
     .content {
-        margin: 0;
+        margin-left: 0;
     }
     .page {
         padding: 25px 50px;
