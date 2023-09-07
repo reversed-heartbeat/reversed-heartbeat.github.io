@@ -16,6 +16,10 @@
     -ms-overflow-style: none; /* Internet Explorer and Edge */
 }
 
+.sidebar h1, .sidebar h2, .sidebar h3, .sidebar h4, .sidebar h5, .sidebar h6{
+    color: #ffffff;
+}
+
 .sidebar * {
     text-align: center;
     margin: 12px 0;

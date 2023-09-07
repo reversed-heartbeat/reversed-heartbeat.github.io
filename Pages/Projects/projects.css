@@ -3,6 +3,7 @@
     margin-left: 250px;
     height: 100vh;
     color: #333333;
+    max-width: 90rem;
 }
 
 .content-title {
@@ -18,8 +19,80 @@
     margin: 20px 0;
 }
 
-.project-list {
-    background-color: aquamarine;
+.project-heading {
+    margin: 20px 0;
+    margin-top: 40px;
+}
+
+.active-projects-list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: baseline;
+}
+
+/* @media (min-width: 760px) {
+    .active-projects-list { grid-template-columns: 1fr; }
+}   
+@media (min-width: 1024px) {
+    .active-projects-list { grid-template-columns: repeat(2, 1fr); }
+}   
+@media (min-width: 1624px) {
+    .active-projects-list { grid-template-columns: repeat(3, 1fr); }
+}
+@media (min-width: 1900px) {
+    .active-projects-list { grid-template-columns: repeat(4, 1fr); }
+} */
+
+.project-card-container {
+    max-width: 290px;
+    margin: 10px 0;
+    background-color: red;
+    justify-content: flex-start;
+}
+
+.project-card-top {
+    border-radius:20px 20px  0 0;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    padding: 15px 15px 10px 15px;
+}
+
+.project-card-description {
+    background-color: #fff;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    background-color: rgb(255, 255, 255);
+    padding: 5px 15px;
+    font-size: 16px;
+}
+
+.project-card-top p, .project-card-bottom p{
+    margin: 10px 2px 2px 0;
+    color: #444;
+}
+
+.project-card-description p {
+    margin: 5px 0;
+    color: #555;
+}
+
+.project-card-label {
+    border-radius: 12px;
+    border: 1px solid #bbb;
+    background-color: #ffffff;
+    padding: 1px 10px;
+    display: inline-block;
+    user-select: none;
+    font-size: 1rem;
+}
+
+
+.project-card-bottom {
+    border-radius: 0 0 20px 20px;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    padding: 10px 15px 15px 15px;
 }
 
 /* RESPONSIVE LAYOUT */
@@ -33,8 +106,29 @@
     body {
         font-size: 16px;
     }
-    h1, h2, h3, h4, h5, h6 {
-        line-height: 1em;
-        font-size: 1.8em;
+
+    h1 {
+        line-height: 1.1em;
+        font-size: calc(1em + 0.6rem);
+    }
+    
+    h2 {
+        line-height: 1.1em;
+        font-size: calc(1em + 0.4rem);
+    }
+    
+    h3, h4, h5, h6 {
+        line-height: 1.1em;
+        font-size: calc(1em + 0.2rem);
+    }
+    
+    h4 {
+        line-height: 1.1em;
+        font-size: calc(1em);
+    }
+    
+    h5 {
+        line-height: 1.1em;
+        font-size: 0.8em;
     }
 }

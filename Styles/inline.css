@@ -32,3 +32,9 @@
 .indented {
     text-indent: 32px;
 }
+
+
+/* DIV */
+.inline {
+    display: inline;
+}

@@ -49,6 +49,10 @@ a {
     gap: 10px;
 }
 
+.image-attachments img {
+    max-height: 200px;
+}
+
 @media only screen and (max-width: 768px) {
     .image-attachments {
         flex-direction: column;
