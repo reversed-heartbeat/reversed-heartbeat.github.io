@@ -75,7 +75,7 @@ img:hover {
 
 
 img:active {
-    transform: rotate(0.01turn);
+    transform: rotate(0.01turn) scale(95%);
     transition: all .1s ease;
     cursor: pointer;
 }

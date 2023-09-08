@@ -33,6 +33,12 @@
     text-indent: 32px;
 }
 
+.rainbow-text {
+    /* CREDITS TO https://w3bits.com/rainbow-text/ */
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+    color: transparent;
+}
+
 
 /* DIV */
 .inline {
