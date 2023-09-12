@@ -1,0 +1,37 @@
+/* CONTENT */
+.content {
+    margin-left: 250px;
+    height: 100vh;
+    color: #333333;
+    max-width: 60rem;
+}
+
+.content-title {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.page {
+    padding: 50px 100px;
+}
+
+.page p {
+    margin: 20px 0;
+}
+
+/* RESPONSIVE LAYOUT */
+@media only screen and (max-width: 768px) {
+    .content {
+        margin-left: 0;
+    }
+    .page {
+        padding: 25px 50px;
+    }
+    body {
+        font-size: 16px;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        line-height: 1em;
+        font-size: 1.8em;
+    }
+}
