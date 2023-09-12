@@ -14,6 +14,7 @@ I hope you find this helpful.
 
 | Date | Description |
 | ----------- | ----------- |
+| 12th September, 2023 | Updated "Project" and "About" section. |
 | 1st September, 2023 | Added image attachment and animation. Started working with the "Projects" section. |
 | 31st August, 2023 | Renamed "Blog" page to "Posts & Updates" page.|
 | 30th August, 2023 | Added Blog Page.|
@@ -26,8 +27,8 @@ I hope you find this helpful.
 - [x] Create a repository
 - [X] Create a Home page
 - [x] Blog
-- [ ] Projects (Work in progress)
-- [ ] About
+- [x] Projects
+- [x] About
 - [ ] Predicting the future...
 
 [^1]: The contents of this repository are provided for informational purposes only. I am not responsible for any damages, including but not limited to direct, indirect, incidental, consequential, or special damages, arising out of or in connection with the use of this repository.
